@@ -1,19 +1,28 @@
-<p align="center"><img src="https://i.imgur.com/a9QWW0v.png"></p>
+# Task Time Tracker
+
+Keep track of the time you spend solving your tasks.
+
+## Features
+
+* Add and complete tasks.
+* Start or pause the time tracker
+* Automatic dark or light mode depending on the configuration of your operating system.
+
+<div style="display:flex; flex-wrap: wrap;">
+    <img width="500px" src="resources/darkmode.png" alt="Task Time Tracker Dark Mode" />
+    <img width="500px" src="resources/ligthmode.png" alt="Task Time Tracker Ligth Mode" />
+</div>
+
+## Technologies
+
+* Electron
+* Nextjs
+* Tailwindcss
+* Typescript
+* Yarn
+* Local Store
 
 ## Usage
-
-### Create an App
-
-```
-# with npx
-$ npx create-nextron-app my-app --example with-typescript-tailwindcss
-
-# with yarn
-$ yarn create nextron-app my-app --example with-typescript-tailwindcss
-
-# with pnpx
-$ pnpx create-nextron-app my-app --example with-typescript-tailwindcss
-```
 
 ### Install Dependencies
 
@@ -36,4 +45,3 @@ $ yarn dev (or `npm run dev` or `pnpm run dev`)
 # production build
 $ yarn build (or `npm run build` or `pnpm run build`)
 ```
-# task-time-tracker
