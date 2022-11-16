@@ -20,7 +20,6 @@ Keep track of the time you spend solving your tasks.
 * Tailwindcss
 * Typescript
 * Yarn
-* Local Store
 
 ## Usage
 
