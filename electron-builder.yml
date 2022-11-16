@@ -1,0 +1,12 @@
+appId: com.example.nextron
+productName: Task Time Tracker
+copyright: Copyright © 2022 @iocodz
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
